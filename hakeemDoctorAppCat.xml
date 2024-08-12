@@ -10,11 +10,11 @@
             <sparkle:minimumAutoupdateVersion>1.0.6</sparkle:minimumAutoupdateVersion>
         </item>
         <item>
-            <title>Version 1.0.10</title>
-            <sparkle:version>1.0.10</sparkle:version>
+            <title>Version 1.0.9</title>
+            <sparkle:version>1.0.9</sparkle:version>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
             <enclosure url="https://apps.apple.com/app/hakeem-doctors-%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1/id1669153245" sparkle:os="ios" />
-            <sparkle:minimumAutoupdateVersion>1.0.10</sparkle:minimumAutoupdateVersion>
+            <sparkle:minimumAutoupdateVersion>1.0.9</sparkle:minimumAutoupdateVersion>
         </item>
     </channel>
 </rss>
