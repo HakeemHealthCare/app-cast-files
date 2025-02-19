@@ -3,18 +3,18 @@
     <channel>
         <title>Hakeem</title>
         <item>
-            <title>Version 2.6.1</title>
-            <sparkle:version>2.6.1</sparkle:version>
+            <title>Version 2.6.2</title>
+            <sparkle:version>2.6.2</sparkle:version>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
             <enclosure url="https://play.google.com/store/apps/details?id=com.hakeem.patient.hakeem_patient" sparkle:os="android"  />
-            <sparkle:minimumAutoupdateVersion>2.6.1</sparkle:minimumAutoupdateVersion>
+            <sparkle:minimumAutoupdateVersion>2.6.2</sparkle:minimumAutoupdateVersion>
         </item>
         <item>
-            <title>Version 2.6.1</title>
-            <sparkle:version>2.6.1</sparkle:version>
+            <title>Version 2.6.2</title>
+            <sparkle:version>2.6.2</sparkle:version>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
             <enclosure url="https://apps.apple.com/eg/app/hakeem-%D8%AD%D9%83%D9%8A%D9%85/id1669070452" sparkle:os="ios" />
-            <sparkle:minimumAutoupdateVersion>2.6.1</sparkle:minimumAutoupdateVersion>
+            <sparkle:minimumAutoupdateVersion>2.6.2</sparkle:minimumAutoupdateVersion>
         </item>
     </channel>
 </rss>
